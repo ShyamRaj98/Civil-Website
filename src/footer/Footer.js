@@ -53,7 +53,7 @@ function Footer() {
           <Link className='cr_link'>©2024 copyright Inc.</Link>
         </div>
         <div className='cleverso_icon'>
-          <a className='cr_link' style={{ textAlign: 'end' }} href="https://www.cleversoindia.com/" target="_blank" rel="noreferrer">
+          <a className='cr_link' style={{ textAlign: 'end' }} href="/" target="_blank" rel="noreferrer">
               <img src={Footer_logo} alt='footer' width='50px' height="50px" />
           </a>
         </div>
